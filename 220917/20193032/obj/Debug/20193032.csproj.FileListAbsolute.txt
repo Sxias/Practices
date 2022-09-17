@@ -1,0 +1,8 @@
+C:\Users\문정준\Desktop\학교\C#\220917\20193032\bin\Debug\20193032.exe.config
+C:\Users\문정준\Desktop\학교\C#\220917\20193032\bin\Debug\20193032.exe
+C:\Users\문정준\Desktop\학교\C#\220917\20193032\bin\Debug\20193032.pdb
+C:\Users\문정준\Desktop\학교\C#\220917\20193032\obj\Debug\20193032.csproj.AssemblyReference.cache
+C:\Users\문정준\Desktop\학교\C#\220917\20193032\obj\Debug\20193032.csproj.SuggestedBindingRedirects.cache
+C:\Users\문정준\Desktop\학교\C#\220917\20193032\obj\Debug\20193032.csproj.CoreCompileInputs.cache
+C:\Users\문정준\Desktop\학교\C#\220917\20193032\obj\Debug\20193032.exe
+C:\Users\문정준\Desktop\학교\C#\220917\20193032\obj\Debug\20193032.pdb
